@@ -372,13 +372,13 @@ body {
     color: transparent;
     display: inline-block;
     margin-right: 16px;
-    animation-name: anime;
+    animation-name: loaderanime;
     animation-duration: 20s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
 
-@keyframes anime {
+@keyframes loaderanime {
     from {
         transform: translateX(0);
     }
