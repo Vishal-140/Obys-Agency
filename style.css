@@ -692,7 +692,7 @@ body {
 }
 
 .footer {
-    height: 85vh;
+    height: 90vh;
     width: 100%;
     position: relative;
     padding-left: 28vw;
@@ -753,9 +753,10 @@ body {
     font-weight: 500;
 }
 
-#footer>h4 {
-    font-size: 1vw;
-    font-weight: 500;
+.footer>h4 {
+    font-size: 1.2vw;
+    font-weight: 600;
+    margin-bottom: 2vw;
 }
 
 ._canvas_container {
@@ -1365,8 +1366,9 @@ body {
         font-weight: 500;
     }
     
-    #footer>h4 {
+    .footer>h4 {
         font-size: 4vw;
         font-weight: 500;
+        margin-bottom: 2vw;
     }
 }
