@@ -339,7 +339,7 @@ body {
     width: 100%;
     /* background-color: #454545; */
     position: relative;
-    padding: 8vh;
+    padding: 7vh;
     margin-bottom: 50vh;
     margin-top: 20vh;
 }
@@ -415,8 +415,8 @@ body {
 }
 
 .page3-circle1 {
-    height: 23vw;
-    width: 23vw;
+    height: 22vw;
+    width: 22vw;
     position: relative;
     border: 2px solid #fff;
     border-radius: 50%;
@@ -430,7 +430,7 @@ body {
         -ms-flex-pack: center;
             justify-content: center;
     margin-top: 23vh;
-    margin-left: 10vw;
+    margin-left: 9vw;
 }
 
 .page3-circle1 svg {
@@ -438,8 +438,8 @@ body {
 }
 
 .page3-circle2 {
-    height: 23vw;
-    width: 23vw;
+    height: 22vw;
+    width: 22vw;
     position: relative;
     border: 2px solid #fff;
     border-radius: 50%;
