@@ -886,11 +886,12 @@ body {
     }
     
     #video-container {
-        background-color: #fff;
-        height: 52vh;
+        /* background-color: #fff; */
+        background-color: red;
+        height: 35vh;
         width: 100vw;
         position: relative;
-        left: 0%;
+        left: 1%;
         /* background-color: red; */
         background-image: url("https://obys.agency/wp-content/uploads/2022/11/Showreel-2022-preview-1.jpg");
         background-size: cover;
@@ -1346,7 +1347,7 @@ body {
                 flex-direction: column ;
         padding-right: 4vw;
         padding-top: 4vw;
-        margin-bottom: 6vw;
+        margin-bottom: 2vw;
     }
     
     #footer-div h6 {
@@ -1369,6 +1370,6 @@ body {
     .footer>h4 {
         font-size: 4vw;
         font-weight: 500;
-        margin-bottom: 2vw;
+        margin-bottom: 1vw;
     }
 }
