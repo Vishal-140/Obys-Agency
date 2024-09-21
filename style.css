@@ -373,7 +373,7 @@ body {
 
 #image-div-container {
     /* background-color: red; */
-    padding: 1vw;
+    padding: 0.9vw;
     position: relative;
     display: -webkit-box;
     display: -ms-flexbox;
